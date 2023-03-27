@@ -128,3 +128,22 @@ dmypy.json
 # Pyre type checker
 .pyre/
 *.csv
+.idea/assignment2_compsocsci.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+responses_0_510.pkl
+responses_1020_1530.pkl
+responses_1530_2040.pkl
+responses_2040_2550.pkl
+responses_2550_3060.pkl
+responses_3060_3570.pkl
+responses_3570_4080.pkl
+responses_4080_4590.pkl
+responses_4080_7675.pkl
+responses_4590_5100.pkl
+responses_5100_5610.pkl
+responses_510_1020.pkl
+responses_5610_11755.pkl
