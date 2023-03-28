@@ -147,3 +147,6 @@ responses_4590_5100.pkl
 responses_5100_5610.pkl
 responses_510_1020.pkl
 responses_5610_11755.pkl
+author_attributes.pkl
+css_authors_edgelist.pkl
+css_graph.json
